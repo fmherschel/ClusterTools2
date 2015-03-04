@@ -1,0 +1,1 @@
+configure primitive $UUID stonith::external/sbd
